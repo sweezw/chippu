@@ -1,0 +1,19 @@
+0	[<s>]	sil
+1	[</s>]	sil
+2	[CHIPPU]	ch iy p ax
+3	[MOVE]	m uw v
+4	[STOP]	s t aa p
+5	[LOOK]	l uw k
+6	[RIGHT]	r ay t
+6	[LEFT]	l eh f t
+7	[FORWARD]	f ao r w er d
+7	[BACKWARDS]	b ae k w er d z
+8	[UP]	ah p
+8	[DOWN]	d aw n
+9	[LEFT-SIDE]	l eh f t s ay d
+9	[RIGHT-SIDE]	r ay t s ay d
+10	[HAND]	hh ae n d
+10	[HANDS]	hh ae n d z
+10	[RIGHT-HAND]	r ay t hh ae n d
+10	[LEFT-HAND]	l eh f t hh ae n d
+11	[NOW]	n aw

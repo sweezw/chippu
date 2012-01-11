@@ -1,0 +1,45 @@
+ 
+% NS_B
+<s>        sil
+
+% NS_E
+</s>        sil
+
+% NAME
+CHIPPU		    ch iy p ax
+
+
+% ACTION1
+MOVE                m uw v
+
+% ACTION3
+STOP		    s t aa p
+
+%ACTION2
+LOOK		    l uw k
+
+
+% DIRECTION2
+RIGHT		    r ay t
+LEFT		    l eh f t
+
+% DIRECTION1
+FORWARD		    f ao r w er d
+BACKWARDS	    b ae k w er d z
+
+% DIRECTION3
+UP		    ah p
+DOWN		    d aw n
+
+% DIRECTION4
+LEFT-SIDE		l eh f t s ay d
+RIGHT-SIDE		r ay t s ay d
+
+%HAND
+HAND		hh ae n d
+HANDS		hh ae n d z
+RIGHT-HAND      r ay t hh ae n d
+LEFT-HAND 	l eh f t hh ae n d
+
+%MISC3
+NOW		n aw
